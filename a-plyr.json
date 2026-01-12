@@ -4,7 +4,7 @@
       "id": "willow",
       "name": "Willow Sports",
       "type": "iframe",
-      "iframeSrc": "https://allrounderlive.pages.dev/player?url=https://amg01269-amg01269c1-sportstribal-emea-5204.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg01269-willowtvfast-willowplus-sportstribalemea/playlist.m3u8",
+      "iframeSrc": "https://cinearena.live/vid/willow.html",
       "hit": "https://dillzycounter.vercel.app/api/hit?key=hindi",
       "get": "https://dillzycounter.vercel.app/api/get?key=hindi"
     },
@@ -12,7 +12,7 @@
       "id": "willowtv",
       "name": "Willow Tv",
       "type": "iframe",
-      "iframeSrc": "https://allrounderlive.pages.dev/player?url=https://crichd.workspace-sultanarabi161.workers.dev/live/willowusa.m3u8",
+      "iframeSrc": "https://cinearena.live/vid/willowtv.html",
       "hit": "https://dillzycounter.vercel.app/api/hit?key=tnt",
       "get": "https://dillzycounter.vercel.app/api/get?key=tnt"
     },
@@ -20,7 +20,7 @@
       "id": "solhaports",
       "name": "Solh Sports",
       "type": "iframe",
-      "iframeSrc": "https://allrounderlive.pages.dev/player?url=https://stream.snexus.co/live/SN_WILDLIFE/main_stream.m3u8",
+      "iframeSrc": "https://cinearena.live/vid/solhsports.html",
       "hit": "https://dillzycounter.vercel.app/api/hit?key=tnt",
       "get": "https://dillzycounter.vercel.app/api/get?key=tnt"
     },
@@ -28,7 +28,7 @@
       "id": "geosuper",
       "name": "Geo Super",
       "type": "iframe",
-      "iframeSrc": "https://allrounderlive.pages.dev/player?url=https://ml-pull-dvc-myco.io:2096/GEO_SUPER/index.m3u8",
+      "iframeSrc": "https://cinearena.live/vid/geosuper.html",
       "hit": "https://dillzycounter.vercel.app/api/hit?key=tnt",
       "get": "https://dillzycounter.vercel.app/api/get?key=tnt"
     }
