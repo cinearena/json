@@ -2,13 +2,15 @@
 
 {
 
-"WPL 22 T20s MATCHES Jan 09 - Feb 05": [{"channel_name": "TIME : 7:00PM & 3:00PM", "url": "", "image": "https://img-cdn.publive.online/fit-in/640x360/filters:format(webp)/bmi/media/media_files/2025/11/26/wpl-2026-2025-11-26-11-06-58.jpg"}, 
-{"channel_name": "hotstar", "url": "https://cinearena.live/a-iframe/?id=jio-hotstar", "image": "https://www.mobigyaan.com/wp-content/uploads/2025/02/JioHotstar-logo-1.jpg"},
-{"channel_name": "willow [iOS]", "url": "https://cinearena.live/vid/willow.html", "image": "https://img.willow.tv/apps/willowsports/willowsports-hrb.jpg"},
-{"channel_name": "star-1", "url": "https://Tv4go.pages.dev/?id=sts1", "image": "https://jiotvimages.cdn.jio.com/dare_images/images/Star_Sports_1.png"},
-{"channel_name": "willowsports", "url": "https://cinearena.live/a-iframe/?id=willow-sports", "image": "https://img.willow.tv/apps/willowsports/willowsports-hrb.jpg"}],
+"India vs New Zealand, 2st ODI 14 jan": [{"channel_name": "TIME : 1:00PM", "url": "", "image": "https://cricketaddictor.com/wp-content/uploads/2021/11/India-vs-New-Zealand-2021.jpg?q=80"}, 
 
+{"channel_name": "jio-hotstar", "url": "https://cinearena.live/a-iframe/?id=jio-hotstar", "image": "https://www.mobigyaan.com/wp-content/uploads/2025/02/JioHotstar-logo-1.jpg"},
+{"channel_name": "Fox", "url": "https://cinearena.live/a-iframe/?id=fox", "image": "https://yt3.googleusercontent.com/ytc/AIdro_mMJL3P-vcTLif2h4V_S17ksNozzOICQKXMMmfdowlx9Q=s900-c-k-c0x00ffffff-no-rj"},
+{"channel_name": "iOS", "url": "https://cinearena.live/vid/willow.html", "image": "https://img.willow.tv/apps/willowsports/willowsports-hrb.jpg"},
+{"channel_name": "willow", "url": "https://cinearena.live/a-iframe/?id=willow-sports", "image": "https://img.willow.tv/apps/willowsports/willowsports-hrb.jpg"},
+{"channel_name": "TNT", "url": "https://cinearena.live/a-iframe/?id=tnt", "image": "https://cricstream4u.github.io/cinearena/tnt4.jpg"}
 
+],
   
 
 "Big Bash League 2025-26 44 T20s Dec 14 - Jan 25": [{"channel_name": "TIME : 8 PM", "url": "", "image": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c0/Big_Bash_League_%28logo%29.png/250px-Big_Bash_League_%28logo%29.png"}, 
@@ -20,7 +22,12 @@
 
   
 
-
+"WPL 22 T20s MATCHES Jan 09 - Feb 05": [{"channel_name": "TIME : 7:00PM & 3:00PM", "url": "", "image": "https://img-cdn.publive.online/fit-in/640x360/filters:format(webp)/bmi/media/media_files/2025/11/26/wpl-2026-2025-11-26-11-06-58.jpg"}, 
+{"channel_name": "hotstar", "url": "https://cinearena.live/a-iframe/?id=jio-hotstar", "image": "https://www.mobigyaan.com/wp-content/uploads/2025/02/JioHotstar-logo-1.jpg"},
+{"channel_name": "willow [iOS]", "url": "https://cinearena.live/vid/willow.html", "image": "https://img.willow.tv/apps/willowsports/willowsports-hrb.jpg"},
+{"channel_name": "star-1", "url": "https://Tv4go.pages.dev/?id=sts1", "image": "https://jiotvimages.cdn.jio.com/dare_images/images/Star_Sports_1.png"},
+{"channel_name": "willowsports", "url": "https://cinearena.live/a-iframe/?id=willow-sports", "image": "https://img.willow.tv/apps/willowsports/willowsports-hrb.jpg"}],
+  
 
 
 "SA20, 34 T20s Dec 26 - Jan 25": [{"channel_name": "TIME : 1:30PM 3:30PM", "url": "", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUSGyn-c9WktzCBLt77reVQaKS7307w8lWAHvQ7t9GNdMbLk6RfH9bgZE&s=10"}, 
@@ -49,20 +56,8 @@
 {"channel_name": "WillowTv", "url": "https://cinearena.live/vid/willowtv.html", "image": "https://img.willow.tv/apps/willowsports/willowsports-hrb.jpg"},
 {"channel_name": "SolhSports", "url": "https://cinearena.live/a-plyr/?id=solhsports", "image": "https://afghanlive.tv/wp-content/uploads/2025/05/solh-sports-tv-live-afghanistan.jpg"}
 
-],
-
-
-
-
-"India vs New Zealand, 2st ODI 14 jan": [{"channel_name": "TIME : 1:00PM", "url": "", "image": "https://cricketaddictor.com/wp-content/uploads/2021/11/India-vs-New-Zealand-2021.jpg?q=80"}, 
-
-{"channel_name": "jio-hotstar", "url": "https://cinearena.live/a-iframe/?id=jio-hotstar", "image": "https://www.mobigyaan.com/wp-content/uploads/2025/02/JioHotstar-logo-1.jpg"},
-{"channel_name": "Fox", "url": "https://cinearena.live/a-iframe/?id=fox", "image": "https://yt3.googleusercontent.com/ytc/AIdro_mMJL3P-vcTLif2h4V_S17ksNozzOICQKXMMmfdowlx9Q=s900-c-k-c0x00ffffff-no-rj"},
-{"channel_name": "iOS", "url": "https://cinearena.live/vid/willow.html", "image": "https://img.willow.tv/apps/willowsports/willowsports-hrb.jpg"},
-{"channel_name": "willow", "url": "https://cinearena.live/a-iframe/?id=willow-sports", "image": "https://img.willow.tv/apps/willowsports/willowsports-hrb.jpg"},
-{"channel_name": "TNT", "url": "https://cinearena.live/a-iframe/?id=tnt", "image": "https://cricstream4u.github.io/cinearena/tnt4.jpg"}
-
 ]
+
 
 
 
