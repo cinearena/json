@@ -14,12 +14,21 @@
     }
   },
 
-  "willowfhd":{
+  "criclife":{
      "CricLife": {
       "url": "https://ev-fast-mpd.starzplayarabia.com/live/eds/CricLife2/DASH/CricLife2.mpd",
       "type": "mpd-shaka",
       "keyId": "48bef83b4c6a3c5189b01b0126210da4",
       "key": "bd085230b7b09e50954fe0af111a8a9f"
+    }
+  },
+
+  "willowfhd":{
+    "WILLOW FHD": {
+      "url": "https://otte.live.fly.ww.aiv-cdn.net/sin-nitro/live/clients/dash/enc/ctipfgkjyw/out/v1/c934f6d404ad4a75bf9deb4142e66005/cenc.mpd",
+      "type": "mpd-shaka",
+      "keyId": "24bb1d301ddd62a816b2eba502f20c36",
+      "key": "3fbcde068cd0c81823db589fa8b21bca"
     }
   },
   
