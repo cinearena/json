@@ -27,12 +27,24 @@
       "key": "bd085230b7b09e50954fe0af111a8a9f"
     }
   },
-  "indnz": {
-    "TNT SPORTS": {
-      "url": "https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/i2pcjr4pe5/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd",
-      "type": "mpd-shaka",
+    "indnz": {
+    "HINDI": {
+      "url": "https://allrounderlive.pages.dev/player?url=https://dillzyserver.dillzycreations.workers.dev/live/king.m3u8",
+      "type": "iframe",
       "keyId": "192b1115da041585c77200128549efa1",
       "key": "634e10efe4abbb14be400a3ccbac0258"
+    },
+    "WILLOW SD": {
+      "url": "https://otte.live.fly.ww.aiv-cdn.net/sin-nitro/live/clients/dash/enc/vedlscjezi/out/v1/1a69808f3f44461ea89171d443225492/cenc-sd.mpd",
+      "type": "mpd-shaka",
+      "keyId": "5692feb4f680daf79dffe3497f469b79",
+      "key": "e358d00ea61053235c674b2ede952fcd"
+    },
+    "WILLOW FHD": {
+      "url": "https://otte.live.fly.ww.aiv-cdn.net/sin-nitro/live/clients/dash/enc/ctipfgkjyw/out/v1/c934f6d404ad4a75bf9deb4142e66005/cenc.mpd",
+      "type": "mpd-shaka",
+      "keyId": "24bb1d301ddd62a816b2eba502f20c36",
+      "key": "3fbcde068cd0c81823db589fa8b21bca"
     }
   },
   "willow": {
