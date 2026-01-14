@@ -23,12 +23,12 @@
     }
   },
 
-  "willowcric":{
+  "willow-fhd":{
     "WILLOW FHD": {
-      "url": "https://otte.live.fly.ww.aiv-cdn.net/sin-nitro/live/clients/dash/enc/ctipfgkjyw/out/v1/c934f6d404ad4a75bf9deb4142e66005/cenc.mpd",
+      "url": "https://otte.live.fly.ww.aiv-cdn.net/sin-nitro/live/clients/dash/enc/8yefqdbchb/out/v1/8f25823809304e1a9d165a8305ca08e4/cenc.mpd",
       "type": "mpd-shaka",
-      "keyId": "24bb1d301ddd62a816b2eba502f20c36",
-      "key": "3fbcde068cd0c81823db589fa8b21bca"
+      "keyId": "c5c42ff75cd4d0dd36979a32e6a433ef",
+      "key": "778d91970da4cfd11c8c727d667785b6"
     }
   },
   
