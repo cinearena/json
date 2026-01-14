@@ -73,7 +73,9 @@
     },
     "Star Sports-2": {
       "url": "https://cinearena.live/a-iframe/?id=eng",
-      "type": "iframe"
+      "type": "iframe",
+      "keyId": "192b1115da041585c77200128549efa1",
+      "key": "634e10efe4abbb14be400a3ccbac0258"
     }
     
     
