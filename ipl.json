@@ -6,11 +6,9 @@
       "keyId": "4ae41f5965180707b310360dc5060c09",
       "key": "f78d1ba450f7ff87f215eb472cb4e17e"
     },
-    "WILLOW FHD": {
-      "url": "https://otte.live.fly.ww.aiv-cdn.net/sin-nitro/live/clients/dash/enc/z5nb20gbbk/out/v1/dc3510b1e59343b8957acd44ef2ff0f8/cenc.mpd",
-      "type": "mpd-shaka",
-      "keyId": "03695d107265c405f2a0c36fdc29a72f",
-      "key": "1b07673dce3f0b46f368b88a74ea79a9"
+    "Willow [iOS]": {
+      "url": "https://amg01269-amg01269c1-sportstribal-emea-5204.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg01269-willowtvfast-willowplus-sportstribalemea/playlist.m3u8",
+      "type": "hls"
     }
     
   },
