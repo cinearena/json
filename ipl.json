@@ -23,7 +23,7 @@
     }
   },
 
-  "willow-fhd":{
+  "willowcric":{
     "WILLOW FHD": {
       "url": "https://otte.live.fly.ww.aiv-cdn.net/sin-nitro/live/clients/dash/enc/ctipfgkjyw/out/v1/c934f6d404ad4a75bf9deb4142e66005/cenc.mpd",
       "type": "mpd-shaka",
