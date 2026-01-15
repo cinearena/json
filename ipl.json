@@ -13,13 +13,32 @@
     }   
   },
 
-  
   "u19": {
     "WILLOW": {
       "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/etebjbu25h/out/v1/935090e6afe6461594b16a907ce1c30b/cenc.mpd",
       "type": "mpd-shaka",
       "keyId": "98b8700f64cb7149fc4695c66b7d8687",
       "key": "3f67576ea915c603c13aed959474bea8"
+    },
+    "PRIME": {
+      "url": "https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash-sd/enc/khizze9pef/out/v1/89aee82791d94c9ea9eb181b74f9ec4e/cenc-sd.mpd",
+      "type": "mpd-shaka",
+      "keyId": "a7a854393efeeb6067fd79b0cf2bad85",
+      "key": "6bcbb19ef718eb4c965afa3a1f088f2f"
+    }
+  },
+  "bbl": {
+    "WILLOW FHD": {
+      "url": "https://otte.live.fly.ww.aiv-cdn.net/sin-nitro/live/clients/dash/enc/immypkxb41/out/v1/e1171079305c49d59de570bd64ca3e6c/cenc.mpd",
+      "type": "mpd-shaka",
+      "keyId": "c289847d4b541aa61780898dfb403560",
+      "key": "2182da5f65ee33e2b3bb32d82d19ce49"
+    },
+    "CRICLIFE": {
+      "url": "https://ev-fast-mpd.starzplayarabia.com/live/eds/CricLife2/DASH/CricLife2.mpd",
+      "type": "mpd-shaka",
+      "keyId": "48bef83b4c6a3c5189b01b0126210da4",
+      "key": "bd085230b7b09e50954fe0af111a8a9f"
     }
   },
 
@@ -97,21 +116,7 @@
       "key": "b0e803fe7d4c136d0ba8eac091a032b7"
     }
   },
-  "bbl": {
-     "WILLOW FHD": {
-      "url": "https://otte.live.fly.ww.aiv-cdn.net/sin-nitro/live/clients/dash/enc/8yefqdbchb/out/v1/8f25823809304e1a9d165a8305ca08e4/cenc.mpd",
-      "type": "mpd-shaka",
-      "keyId": "c5c42ff75cd4d0dd36979a32e6a433ef",
-      "key": "778d91970da4cfd11c8c727d667785b6"
-    },
-    "CRICLIFE": {
-      "url": "https://ev-fast-mpd.starzplayarabia.com/live/eds/CricLife2/DASH/CricLife2.mpd",
-      "type": "mpd-shaka",
-      "keyId": "48bef83b4c6a3c5189b01b0126210da4",
-      "key": "bd085230b7b09e50954fe0af111a8a9f"
-    }
-    
-  },
+ 
   "willowios": {
     "Willow [iOS]": {
       "url": "https://amg01269-amg01269c1-sportstribal-emea-5204.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg01269-willowtvfast-willowplus-sportstribalemea/playlist.m3u8",
