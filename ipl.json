@@ -13,6 +13,16 @@
     }   
   },
 
+  
+  "u19": {
+    "WILLOW": {
+      "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/etebjbu25h/out/v1/935090e6afe6461594b16a907ce1c30b/cenc.mpd",
+      "type": "mpd-shaka",
+      "keyId": "98b8700f64cb7149fc4695c66b7d8687",
+      "key": "3f67576ea915c603c13aed959474bea8"
+    }
+  },
+
   "criclife":{
      "CricLife": {
       "url": "https://ev-fast-mpd.starzplayarabia.com/live/eds/CricLife2/DASH/CricLife2.mpd",
