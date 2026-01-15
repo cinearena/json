@@ -14,6 +14,12 @@
   },
 
   "u19": {
+    "Hindi": {
+      "url": "https://cinearena.github.io/id/sports.html?id=Star2HINDISD",
+      "type": "iframe",
+      "keyId": "9457eb90129456fa8ea95e10ba4ac51e",
+      "key": "e620a970cea474c491ac78ae71a4d764"
+    },
     "WILLOW": {
       "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/etebjbu25h/out/v1/935090e6afe6461594b16a907ce1c30b/cenc.mpd",
       "type": "mpd-shaka",
@@ -31,13 +37,8 @@
       "type": "iframe",
       "keyId": "9457eb90129456fa8ea95e10ba4ac51e",
       "key": "e620a970cea474c491ac78ae71a4d764"
-    },
-    "Hindi": {
-      "url": "https://cinearena.github.io/id/sports.html?id=Star2HINDISD",
-      "type": "iframe",
-      "keyId": "9457eb90129456fa8ea95e10ba4ac51e",
-      "key": "e620a970cea474c491ac78ae71a4d764"
     }
+    
   },
   "bbl": {
     "WILLOW FHD": {
