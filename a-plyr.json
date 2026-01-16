@@ -1,6 +1,14 @@
 {
   "iframes": [
     {
+      "id": "star2eng",
+      "name": "Star Sports 2 Eng",
+      "type": "iframe",
+      "iframeSrc": "https://cinearena.live/channels/star2eng/",
+      "hit": "https://dillzycounter.vercel.app/api/hit?key=hindi",
+      "get": "https://dillzycounter.vercel.app/api/get?key=hindi"
+    },
+    {
       "id": "willow",
       "name": "Willow Sports",
       "type": "iframe",
