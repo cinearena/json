@@ -19,5 +19,8 @@
 {"keyId":"ec7d009d07aa5cbc81a441880530dfa5","key":"8147983ad7402ebfc222d28b667a196f","id":"StarSportsSelect2","title":"Star Sports Select 2","logo":"https://jiotvimages.cdn.jio.com/dare_images/images/Star_Sports_Select_2.png","url":"https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_Select_2_BTS/output/index.mpd"},
 {"keyId":"6017d0514d425fa38f6e80ba6dcc852f","key":"0018944b00adf2078f62386f30c68b74","id":"StarSportsSelect2HD","title":"Star Sports Select 2 HD","logo":"https://jiotvimages.cdn.jio.com/dare_images/images/Star_Sports_Select_HD_2.png","url":"https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_Select_HD_2_BTS/output/index.mpd"},
 {"keyId":"9dc5ddd99e3c723bf109a504da715dac","key":"d39d55e9ba386a86641ca9668abf2b0d","id":"criclife2","title":"Cric Life Women","logo":"","url":"https://neacdnpop3-edge02.aws.playco.com/live/eds/CricLife_Women_27112025/DASH/CricLife_Women_27112025.mpd"},
-{"keyId":"1e23e51b09a67b83813c17049870bcd4","key":"c3d6288e378b0dc55320fd0e6fd2e55f","id":"criclife1","title":"Cric Life","logo":"","url":"https://ev-fast-mpd.starzplayarabia.com/live/eds/CricLife1/DASH/CricLife1.mpd"}
+{"keyId":"1e23e51b09a67b83813c17049870bcd4","key":"c3d6288e378b0dc55320fd0e6fd2e55f","id":"criclife1","title":"Cric Life","logo":"","url":"https://ev-fast-mpd.starzplayarabia.com/live/eds/CricLife1/DASH/CricLife1.mpd"},
+{"keyId":"48bef83b4c6a3c5189b01b0126210da4","key":"bd085230b7b09e50954fe0af111a8a9f","id":"cricbuzz1","title":"CricBuzz1","logo":"","url":"https://ev-fast-mpd.starzplayarabia.com/live/eds/CricLife2/DASH/CricLife2.mpd"},
+{"keyId":"4e8b5ddac5332a4e66c002b4c0f22322","key":"d06de29b0eacb81ac6e3f325849047e8","id":"cricbuzz2","title":"CricBuzz2","logo":"","url":"https://ev-fast-mpd.starzplayarabia.com/live/eds/Criclife_3/DASH/Criclife_3.mpd"}
+
 ]
