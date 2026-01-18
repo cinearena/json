@@ -1,35 +1,12 @@
  {
-  "indvsnz": {
-
-   
-    "WILLOW Ads Free": {
-      "url": "https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/hrnuswtzcw/out/v1/ff22892ec10049e39572291600b150a0/cenc.mpd",
-      "type": "mpd-shaka",
-      "keyId": "03c71fb5e7ca7f88def2e988ef390c26",
-      "key": "0a2ebb5b953aa99dd31e9c7ebf86b657"
-    },
-    "CRICLIFE": {
-      "url": "https://ev-fast-mpd.starzplayarabia.com/live/eds/CricLife2/DASH/CricLife2.mpd",
-      "type": "mpd-shaka",
-      "keyId": "48bef83b4c6a3c5189b01b0126210da4",
-      "key": "bd085230b7b09e50954fe0af111a8a9f"
-    },
-    "FOX": {
-      "url": "https://allrounderlive.pages.dev/player2?url=https://dillzyserver.dillzycreations.workers.dev/live/abc123.m3u8",
-      "type": "iframe"
-    }
-  },
+  
   
   "wpl": {
     "Jio-Hotstar [Hindi]": {
-      "url": "https://allrounderlive.pages.dev/player?url=https://dillzyserver.dillzycreations.workers.dev/live/king.m3u8",
+      "url": "https://cinearena.live/a-iframe/?id=jio-hotstar",
       "type": "iframe"
     },
-    "Willow [iOS]": {
-      "url": "https://allrounderlive.pages.dev/player?url=https://amg01269-amg01269c1-sportstribal-emea-5204.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg01269-willowtvfast-willowplus-sportstribalemea/playlist.m3u8",
-      "type": "iframe"
-    },
-   
+    
     "CricLife-2": {
       "url": "https://neacdnpop3-edge02.aws.playco.com/live/eds/CricLife_Women_27112025/DASH/CricLife_Women_27112025.mpd",
       "type": "mpd-shaka",
@@ -68,141 +45,33 @@
     } 
   },
 
- 
-"criclife1": {
-     "CricLife-1": {
-      "url": "https://ev-fast-mpd.starzplayarabia.com/live/eds/CricLife1/DASH/CricLife1.mpd",
-      "type": "mpd-shaka",
-      "keyId": "1e23e51b09a67b83813c17049870bcd4",
-      "key": "c3d6288e378b0dc55320fd0e6fd2e55f"
-    }  
-   },
-  "criclife2": {
-    "CricLife-2": {
-      "url": "https://neacdnpop3-edge02.aws.playco.com/live/eds/CricLife_Women_27112025/DASH/CricLife_Women_27112025.mpd",
-      "type": "mpd-shaka",
-      "keyId": "9dc5ddd99e3c723bf109a504da715dac",
-      "key": "d39d55e9ba386a86641ca9668abf2b0d"
-    }   
-  },
-
-  "cricbuzz1": {
-    "Cricbuzz1": {
+  "sa20": {
+    "Geo Super": {
+      "url": "https://cinearena.github.io/channels/geosuper.html",
+      "type": "iframe",
+    },
+    "CricLife": {
       "url": "https://ev-fast-mpd.starzplayarabia.com/live/eds/CricLife2/DASH/CricLife2.mpd",
       "type": "mpd-shaka",
       "keyId": "48bef83b4c6a3c5189b01b0126210da4",
       "key": "bd085230b7b09e50954fe0af111a8a9f"
-    }   
+    }
   },
 
-
-  "cricbuzz2": {
-    "Cricbuzz-2": {
-      "url": "https://ev-fast-mpd.starzplayarabia.com/live/eds/Criclife_3/DASH/Criclife_3.mpd",
-      "type": "mpd-shaka",
-      "keyId": "4e8b5ddac5332a4e66c002b4c0f22322",
-      "key": "d06de29b0eacb81ac6e3f325849047e8"
-    }   
-  },
-
-    "fancode1": {
+  "fancode":{
     "Fancode-1": {
       "url": "https://a166aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/clients/dash/enc/inpyms8ezu/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd",
       "type": "mpd-shaka",
       "keyId": "065051b99bf5cf8d9a3bde5cbde6aaf9",
       "key": "214bd176832872339ce184338320f9a2"
-    }   
-  },
-
-    "fancode2": {
+    },  
     "Fancode-2": {
       "url": "https://a204aivottepl-a.akamaihd.net/sin-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
       "type": "mpd-shaka",
       "keyId": "7e9239c1982d984a002df3ed049d0756",
       "key": "1b8a17598129a3618535c8fb05f103fe"
     }   
-  },
-
-  
-  "willow-fhd": {
-    "WILLOW FHD": {
-      "url": "https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/hrnuswtzcw/out/v1/ff22892ec10049e39572291600b150a0/cenc.mpd",
-      "type": "mpd-shaka",
-      "keyId": "03c71fb5e7ca7f88def2e988ef390c26",
-      "key": "0a2ebb5b953aa99dd31e9c7ebf86b657"
-    }
-  },
-  
-  "sa20": {
-    "Geo Super": {
-      "url": "https://ml-pull-dvc-myco.io:2096/GEO_SUPER/index.m3u8",
-      "type": "hls",
-      "keyId": "ce49fc405dd3c8a7783d8597fc1c68cd",
-      "key": "7022f11d572084a82fd0b883703ed1b5"
-    },
-    "CricLife": {
-      "url": "https://ev-fast-mpd.starzplayarabia.com/live/eds/CricLife2/DASH/CricLife2.mpd",
-      "type": "mpd-shaka",
-      "keyId": "48bef83b4c6a3c5189b01b0126210da4",
-      "key": "bd085230b7b09e50954fe0af111a8a9f"
-    }
-  },
-  
-  "indnz": {
-    "HINDI": {
-      "url": "https://allrounderlive.pages.dev/player?url=https://dillzy.cricketstream745.workers.dev/live.m3u8",
-      "type": "iframe",
-      "keyId": "192b1115da041585c77200128549efa1",
-      "key": "634e10efe4abbb14be400a3ccbac0258"
-    },
-    "CricLife": {
-      "url": "https://ev-fast-mpd.starzplayarabia.com/live/eds/CricLife2/DASH/CricLife2.mpd",
-      "type": "mpd-shaka",
-      "keyId": "48bef83b4c6a3c5189b01b0126210da4",
-      "key": "bd085230b7b09e50954fe0af111a8a9f"
-    },
-    "WILLOW SD": {
-      "url": "https://otte.live.fly.ww.aiv-cdn.net/sin-nitro/live/clients/dash/enc/vedlscjezi/out/v1/1a69808f3f44461ea89171d443225492/cenc-sd.mpd",
-      "type": "mpd-shaka",
-      "keyId": "5692feb4f680daf79dffe3497f469b79",
-      "key": "e358d00ea61053235c674b2ede952fcd"
-    },
-    "WILLOW FHD": {
-      "url": "https://otte.live.fly.ww.aiv-cdn.net/sin-nitro/live/clients/dash/enc/ctipfgkjyw/out/v1/c934f6d404ad4a75bf9deb4142e66005/cenc.mpd",
-      "type": "mpd-shaka",
-      "keyId": "24bb1d301ddd62a816b2eba502f20c36",
-      "key": "3fbcde068cd0c81823db589fa8b21bca"
-    },
-    "Star Sports-2": {
-      "url": "https://cricketstan.github.io/Channel-14/",
-      "type": "iframe",
-      "keyId": "9457eb90129456fa8ea95e10ba4ac51e",
-      "key": "e620a970cea474c491ac78ae71a4d764"
-    }
-  },
-  
-  "willow": {
-    "WILLOW ADS FREE": {
-      "url": "https://otte.live.fly.ww.aiv-cdn.net/sin-nitro/live/clients/dash/enc/njsiktakqy/out/v1/b25ec77dd6d547d68df6d07f165896ff/cenc.mpd",
-      "type": "mpd-shaka",
-      "keyId": "dd94299841023377b7302276118a971b",
-      "key": "b0e803fe7d4c136d0ba8eac091a032b7"
-    }
-  },
-
-  "cricbuzz5": {
-    "Cricbuzz-2": {
-      "url": "",
-      "type": "mpd-shaka",
-      "keyId": "",
-      "key": ""
-    }   
-  },
- 
-  "willowios": {
-    "Willow [iOS]": {
-      "url": "https://cinearena.github.io/channels/willow.html",
-      "type": "iframe"
-    }
   }
+
+
 }
