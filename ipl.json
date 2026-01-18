@@ -29,13 +29,16 @@
       "url": "https://allrounderlive.pages.dev/player?url=https://amg01269-amg01269c1-sportstribal-emea-5204.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg01269-willowtvfast-willowplus-sportstribalemea/playlist.m3u8",
       "type": "iframe"
     },
-    "WILLOW SD": {
-      "url": "https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash-sd/enc/sq3nwcl4j4/out/v1/41930b7349364099bb1b4ef153032937/cenc-sd.mpd",
+   
+    "CricLife-1": {
+      "url": "https://ev-fast-mpd.starzplayarabia.com/live/eds/CricLife1/DASH/CricLife1.mpd",
       "type": "mpd-shaka",
-      "keyId": "4ae41f5965180707b310360dc5060c09",
-      "key": "f78d1ba450f7ff87f215eb472cb4e17e"
-    }   
+      "keyId": "1e23e51b09a67b83813c17049870bcd4",
+      "key": "c3d6288e378b0dc55320fd0e6fd2e55f"
+    }    
   },
+
+  
 
   "u19": {
     "Willow [iOS]": {
@@ -64,6 +67,16 @@
       "key": "d06de29b0eacb81ac6e3f325849047e8"
     } 
   },
+
+ 
+"criclife1": {
+     "CricLife-1": {
+      "url": "https://ev-fast-mpd.starzplayarabia.com/live/eds/CricLife1/DASH/CricLife1.mpd",
+      "type": "mpd-shaka",
+      "keyId": "1e23e51b09a67b83813c17049870bcd4",
+      "key": "c3d6288e378b0dc55320fd0e6fd2e55f"
+    }  
+   }
 
   "cricbuzz1": {
     "Cricbuzz1": {
