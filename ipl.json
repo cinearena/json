@@ -85,13 +85,15 @@
     }
   },
 
-  "criclife": {
+  "cricbuzz1": {
     "CricLife": {
       "url": "https://ev-fast-mpd.starzplayarabia.com/live/eds/CricLife2/DASH/CricLife2.mpd",
       "type": "mpd-shaka",
       "keyId": "48bef83b4c6a3c5189b01b0126210da4",
       "key": "bd085230b7b09e50954fe0af111a8a9f"
     }
+   
+   
   },
 
   "willow-fhd": {
