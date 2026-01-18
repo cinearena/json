@@ -30,12 +30,12 @@
       "type": "iframe"
     },
    
-    "CricLife-1": {
-      "url": "https://ev-fast-mpd.starzplayarabia.com/live/eds/CricLife1/DASH/CricLife1.mpd",
+    "CricLife-2": {
+      "url": "https://neacdnpop3-edge02.aws.playco.com/live/eds/CricLife_Women_27112025/DASH/CricLife_Women_27112025.mpd",
       "type": "mpd-shaka",
-      "keyId": "1e23e51b09a67b83813c17049870bcd4",
-      "key": "c3d6288e378b0dc55320fd0e6fd2e55f"
-    }    
+      "keyId": "9dc5ddd99e3c723bf109a504da715dac",
+      "key": "d39d55e9ba386a86641ca9668abf2b0d"
+    }  
   },
 
   
