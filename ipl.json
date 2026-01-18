@@ -79,10 +79,10 @@
    },
   "criclife2": {
     "CricLife-2": {
-      "url": "",
+      "url": "https://neacdnpop3-edge02.aws.playco.com/live/eds/CricLife_Women_27112025/DASH/CricLife_Women_27112025.mpd",
       "type": "mpd-shaka",
-      "keyId": "",
-      "key": ""
+      "keyId": "9dc5ddd99e3c723bf109a504da715dac",
+      "key": "d39d55e9ba386a86641ca9668abf2b0d"
     }   
   },
 
