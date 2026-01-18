@@ -47,6 +47,12 @@
       "type": "mpd-shaka",
       "keyId": "1e23e51b09a67b83813c17049870bcd4",
       "key": "c3d6288e378b0dc55320fd0e6fd2e55f"
+    },
+   "WILLOW SD": {
+      "url": "https://otte.live.fly.ww.aiv-cdn.net/sin-nitro/live/clients/dash/enc/vedlscjezi/out/v1/1a69808f3f44461ea89171d443225492/cenc-sd.mpd",
+      "type": "mpd-shaka",
+      "keyId": "5692feb4f680daf79dffe3497f469b79",
+      "key": "e358d00ea61053235c674b2ede952fcd"
     }
   },
   
