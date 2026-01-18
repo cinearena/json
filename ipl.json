@@ -76,7 +76,15 @@
       "keyId": "1e23e51b09a67b83813c17049870bcd4",
       "key": "c3d6288e378b0dc55320fd0e6fd2e55f"
     }  
-   }
+   },
+  "criclife2": {
+    "CricLife-2": {
+      "url": "",
+      "type": "mpd-shaka",
+      "keyId": "",
+      "key": ""
+    }   
+  },
 
   "cricbuzz1": {
     "Cricbuzz1": {
