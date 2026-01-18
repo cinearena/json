@@ -38,29 +38,15 @@
   },
 
   "u19": {
-    "Hindi": {
-      "url": "https://cinearena.github.io/id/sports.html?id=Star2HINDISD",
-      "type": "iframe",
-      "keyId": "9457eb90129456fa8ea95e10ba4ac51e",
-      "key": "e620a970cea474c491ac78ae71a4d764"
+    "Willow [iOS]": {
+      "url": "https://cinearena.github.io/channels/willow.html",
+      "type": "iframe"
     },
-    "WILLOW": {
-      "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/etebjbu25h/out/v1/935090e6afe6461594b16a907ce1c30b/cenc.mpd",
+    "CricLife1": {
+      "url": "https://ev-fast-mpd.starzplayarabia.com/live/eds/CricLife1/DASH/CricLife1.mpd",
       "type": "mpd-shaka",
-      "keyId": "98b8700f64cb7149fc4695c66b7d8687",
-      "key": "3f67576ea915c603c13aed959474bea8"
-    },
-    "PRIME": {
-      "url": "https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash-sd/enc/khizze9pef/out/v1/89aee82791d94c9ea9eb181b74f9ec4e/cenc-sd.mpd",
-      "type": "mpd-shaka",
-      "keyId": "a7a854393efeeb6067fd79b0cf2bad85",
-      "key": "6bcbb19ef718eb4c965afa3a1f088f2f"
-    },
-    "Star Sports-2": {
-      "url": "https://cricketstan.github.io/Channel-14/",
-      "type": "iframe",
-      "keyId": "9457eb90129456fa8ea95e10ba4ac51e",
-      "key": "e620a970cea474c491ac78ae71a4d764"
+      "keyId": "1e23e51b09a67b83813c17049870bcd4",
+      "key": "c3d6288e378b0dc55320fd0e6fd2e55f"
     }
   },
   
