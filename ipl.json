@@ -4,9 +4,11 @@
       "url": "https://cinearena.live/a-iframe/?id=jio-hotstar",
       "type": "iframe"
     },
-    "Willow [iOS]": {
-      "url": "https://cinearena.github.io/channels/willow.html",
-      "type": "iframe"
+    "WILLOW Ads Free": {
+      "url": "https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/hrnuswtzcw/out/v1/ff22892ec10049e39572291600b150a0/cenc.mpd",
+      "type": "mpd-shaka",
+      "keyId": "03c71fb5e7ca7f88def2e988ef390c26",
+      "key": "0a2ebb5b953aa99dd31e9c7ebf86b657"
     },
     "CRICLIFE": {
       "url": "https://ev-fast-mpd.starzplayarabia.com/live/eds/CricLife2/DASH/CricLife2.mpd",
