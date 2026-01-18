@@ -82,11 +82,20 @@
       "type": "mpd-shaka",
       "keyId": "48bef83b4c6a3c5189b01b0126210da4",
       "key": "bd085230b7b09e50954fe0af111a8a9f"
-    }
-   
-   
+    }   
   },
 
+
+  "cricbuzz2": {
+    "Cricbuzz-2": {
+      "url": "https://ev-fast-mpd.starzplayarabia.com/live/eds/Criclife_3/DASH/Criclife_3.mpd",
+      "type": "mpd-shaka",
+      "keyId": "4e8b5ddac5332a4e66c002b4c0f22322",
+      "key": "d06de29b0eacb81ac6e3f325849047e8"
+    }   
+  },
+
+  
   "willow-fhd": {
     "WILLOW FHD": {
       "url": "https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/hrnuswtzcw/out/v1/ff22892ec10049e39572291600b150a0/cenc.mpd",
@@ -151,6 +160,15 @@
       "keyId": "dd94299841023377b7302276118a971b",
       "key": "b0e803fe7d4c136d0ba8eac091a032b7"
     }
+  },
+
+  "cricbuzz5": {
+    "Cricbuzz-2": {
+      "url": "",
+      "type": "mpd-shaka",
+      "keyId": "",
+      "key": ""
+    }   
   },
  
   "willowios": {
